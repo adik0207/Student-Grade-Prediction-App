@@ -1,1 +1,1 @@
-# Student-Grade-Prediction-App
+# 🎓 Student Grade Prediction App
