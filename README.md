@@ -68,12 +68,15 @@ This project is a Machine Learning-based web application that predicts a student
 1. **Clone the repo**
    
 git clone https://github.com/your-username/student-grade-predictor.git
+
 cd student-grade-predictor
 
 Install dependencies
+
 pip install -r requirements.txt
 
 Run the app
+
 streamlit run app.py
 
 ✨ Features
@@ -93,8 +96,11 @@ Helps in identifying students needing intervention
 Can be integrated into school management systems
 
 🙋‍♂️ Author
+
 Aditya Khare
+
 Developer | Data Enthusiast
+
 📧 adikhare0207@gmail.com
 
 🌟 Star this repo if you found it useful!
